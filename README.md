@@ -3,7 +3,7 @@
 This project entails two primary objectives. Firstly, the goal is to develop a recommendation system that allows users to discover movies similar to those they've previously watched. The second objective involves creating a system to predict IMDb ratings for upcoming movies. The initial stages involved data merging and cleaning, followed by exploratory data analysis (EDA) and correlation analyses using Spearman and Pearson methods to identify relevant features.
 
 To achieve the recommendation system, two unsupervised machine learning algorithms—Cosine Similarity and K-means clustering—were implemented. For IMDb rating prediction, three supervised machine learning algorithms were employed. Among them, two were classification algorithms, namely KNN and Random Forest classification. The subsequent step involved assessing and determining the most effective algorithms for both the recommendation and prediction systems.
-# Code and Resources Used
+Code and Resources Used
 - ***Python Version:*** 3.8
 - ***Packages:*** pandas, numpy, sklearn, matplotlib, seaborn
 - ***Dataset:*** Netflix: https://www.kaggle.com/shivamb/netflix-shows IMDb data: https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
